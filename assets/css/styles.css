@@ -1,0 +1,17 @@
+* {
+    color: #1BCB01;
+    font-family:  monospace;
+}
+
+/* element styles */
+body, h1 {
+    margin: 0;
+}
+
+/* classes */
+.bgc-darkgray  { background-color: #333333; }
+.pos-f         { position: fixed; }
+.pos-s         { position: sticky; }
+.pv            { padding: 24px 0; }
+.t-0           { top: 0; }
+.w-1\/1        { width: 100% }
